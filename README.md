@@ -1,4 +1,4 @@
-# Oie devs 👋
+# Olá mestres 👋
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
