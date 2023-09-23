@@ -1,6 +1,6 @@
 # Olá mestres 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Minha paixão pela tecnologia é a chama que alimenta minha jornada como profissional excepcional, transformando cada desafio em uma oportunidade para inovar e superar expectativas
 
 ## Mais sobre mim
 
@@ -9,7 +9,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ```kotlin
 object **IAN** {
  var name = "Ian Cadori de Siqueira"
- var acknowledgements = "Front End"
+ var acknowledgements = "Banco de Dados"
 
  var primarySkillset = "ALGUMAS HABILIDADES"
  var languages = listOf("HTML", "CSS", "JavaScript", "SQL")
